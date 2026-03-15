@@ -1,4 +1,4 @@
-# IT Fachspezialist Certification – Vincenzo Ceccarelli Grimaldi
+# ITK Fachspezialist Certification – Vincenzo Ceccarelli Grimaldi
 
 I work as an electrical engineer in Stations & Services (I.IP-MI-IW 1) at DB InfraGO AG, Regionalbereich Mitte.
 
