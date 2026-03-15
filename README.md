@@ -2,9 +2,8 @@
 
 I work as an electrical engineer in Stations & Services (I.IP-MI-IW 1) at DB InfraGO AG, Regionalbereich Mitte.
 
-On **16 October 2025** I had my Feststellungsgespräch for the role of **IT Fachspezialist:in**. The assessment concluded that I am currently **eingeschränkt geeignet** (limited suitable). A clear action plan with mentoring has been agreed so I can reach full qualification by **31 January 2026**.
-
-This repository contains the official certification document and verification code so everything is transparent and reproducible.
+On **16 October 2025** I had my Feststellungsgespräch for the role of **IT Fachspezialist:in**.
+This repository contains the official certification document and verification code so everything is transparent.
 
 ### My Role at DB InfraGO AG
 As an electrical engineer (Wirtschaftselektrotechniker, RWTH Aachen 2022) my daily work focuses on the IT systems that keep passenger stations safe and reliable. I support planning, quality control and IT safety in accordance with Ril 813, Ril 513, Ril 861 and Ril 114, and the relevant process modules.
